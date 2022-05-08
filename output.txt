@@ -1,0 +1,880 @@
+Table:
+
+Crawler-1                Crawler-2                Crawler-3                Classifier
+                                                                                       start
+                         start
+                         grab
+                                                  start
+                                                  grab
+start
+grab
+                         f-grab
+                         grab
+                                                                           clfy
+                                                  f-grab
+                                                  grab
+f-grab
+grab
+                         f-grab
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+                                                  f-grab
+                                                  grab
+f-grab
+grab
+                                                                           f-clfy
+                                                                           clfy
+                         f-grab
+                         grab
+                                                  f-grab
+                                                  grab
+f-grab
+grab
+                                                                           f-clfy
+                         f-grab
+                         grab
+                                                  f-grab
+                                                  grab
+f-grab
+grab
+                                                                           clfy
+                         f-grab
+                         wait
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                         s-wait
+                         grab
+f-grab
+                                                                           clfy
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                                           f-clfy
+s-wait
+grab
+                                                  f-grab
+                                                  wait
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+f-grab
+wait
+                                                                           f-clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                                           clfy
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                                                  f-grab
+                                                  wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+                         f-grab
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+                                                                           f-clfy
+f-grab
+grab
+                                                                           clfy
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                                                                           f-clfy
+                         s-wait
+                                                                           clfy
+f-grab
+wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                         f-grab
+                         wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+f-grab
+grab
+                                                                           clfy
+                                                                           f-clfy
+f-grab
+grab
+                                                                           clfy
+                                                                           f-clfy
+f-grab
+grab
+                                                                           clfy
+                                                                           f-clfy
+f-grab
+grab
+                                                                           clfy
+                                                                           f-clfy
+f-grab
+grab
+                                                                           clfy
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                         s-wait
+                                                                           clfy
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+s-wait
+grab
+                         f-grab
+                                                                           clfy
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           clfy
+                                                                           f-clfy
+s-wait
+grab
+                         f-grab
+                         wait
+                                                                           clfy
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                                                  f-grab
+                                                  wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                                                  f-grab
+                                                  wait
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                  f-grab
+                                                                           clfy
+                                                  wait
+                         s-wait
+                         grab
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                         s-wait
+                                                                           clfy
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+s-wait
+grab
+                         f-grab
+                         wait
+                                                                           clfy
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                         s-wait
+                         grab
+                                                                           clfy
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+s-wait
+grab
+                         f-grab
+                         wait
+                                                                           clfy
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                         f-grab
+                         wait
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           clfy
+                                                                           f-clfy
+s-wait
+grab
+                         f-grab
+                         wait
+                                                                           clfy
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           f-clfy
+s-wait
+grab
+                         f-grab
+                         wait
+                                                                           clfy
+f-grab
+wait
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  grab
+                                                                           f-clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           clfy
+                                                                           f-clfy
+                         f-grab
+                         wait
+                                                                           clfy
+s-wait
+grab
+                                                                           f-clfy
+                                                  s-wait
+                                                                           clfy
+f-grab
+wait
+                                                  grab
+                                                                           f-clfy
+                         s-wait
+                         grab
+                                                  f-grab
+                                                  wait
+                                                                           clfy
+                         f-grab
+                         wait
+                                                                           f-clfy
+                                                                           clfy
+s-wait
+grab
+                                                                           f-clfy
+                                                                           clfy
+                                                  s-wait
+                                                  quit
+f-grab
+quit
+                                                                           119-enough
+                                                                           f-clfy
+                                                                           clfy
+                         s-wait
+                         quit
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           clfy
+                                                                           f-clfy
+                                                                           129-stored
+                                                                           quit
+
+
+Textfilecorpus:
+
+1 9 ihb`JGd^1InNHO@A15glBItC3Tqe1n=^3[;ul1xBatXwltcZ1>
+2 7 g\YAvsUyD=tlQDh^KVdB^Hl]oH0@pH4s74xo8Eb?cYkQHKhiqU
+3 9 IFB3@awjL_3mkQr4^`sx=k>TQn4Xvkzw7>YGpFKmWHGo0bGg3n
+4 13 :M:QXarI6UWhdjg<8WxcMRF`5QVIfWE@MvPYxqpyOx<HoD]hsE
+5 8 HTRW<0Oti8=[?@]8d?n\kKGX[;nFGwZWbE0wGNb]WfSM5U?zVh
+6 10 @8JXXQ@v>nIyN6]0xPi4YfCNfBxWx7Xr`unwmXx<aD^N^Uf9_h
+7 13 9Zm3dMgg4G;Ham9rDj>\jWD<Sn4;H3bBWCOkF?lZ?KbpRlF4Ak
+8 11 K4tPLyDpP9X8V0J_z2;Jc6:4kBjG3:6ta[f9ZivIydPY<oG=Xx
+9 3 Co?:^h=N59PPnLbd05YhDyEoeBs1]zheeE0iW3o2e6ISv=9Lcx
+10 8 u9McC`yp0\xCq>DuABS0Rm<Mg>1vsaJ8Xj9Uo@7j9AlJaibecn
+11 2 ba8qZDp@]VhL>Vcisf@rHOFe8YB`<ADwa?2>Pp]@iW>VxpCGs6
+12 12 Y96\2>nyKAiylWeUvNdV3TC[QE76yTF[OhPKPe?4XFQCntH?;K
+13 4 qt^RHTl>S=jChIQmXrrf>QG?EM_bZ3qnVGHYC]nFFostUjP[e;
+14 3 cwL?8B8jRuD0dQ=7GP449[2B_6idO_ZX9XtF_A4Bk_qkOp^2W\
+15 8 HZK<>R[j9FjloJc]@X>U^L2kP1D;HR]yOAvN6OSJiFRJ:mPK<o
+16 6 flJ97:?bsR57X5?O?fe;IhZas9XHw3E[X^lc4I=FTtosE_k@7i
+17 6 FtxgtLda7HEw<is\;IOl`2DFfBRi<4ul9nCD^hj?i>t>??VLf4
+18 1 ]=ArRQb:Wot@Nqs<TdYSQmAXw8X:1fZ6:v_T^;;mHHq\Ga05nW
+19 13 m^CBtaR3Gm_BS=xYtN@HfDeTBNfc8r<[1Tftl8XuJU7g3\]1c\
+20 2 o;54YM1tFzRT:zx^emh>jSPRq@abmY0^wo@MeI?NvF2X@JWNi[
+21 9 icf0sM6z3KtY?Ji4LNl^?wW66^0c7Z^z4Gjc8lqnEHsjf\Cy7K
+22 4 QMnfZzlNyzi9bRq=A<ck2r3y[zw92fYh4oo_P<X[;gRUr3lT=w
+23 7 ;Gwc\ht4@aGUIR2MaadYTj1i98hppzuVB6BoWWtEB9JkNmnQ6P
+24 5 @eLqQJAHp3GKW4ID5_TQo=38S5KB;:9ULx;nDIyI`^ij_CP1pD
+25 8 HxZ@CZzL]lklv[zfKT\eDN:4Jd0S6ZJ<x]d3B;wS?;w0AcUr?z
+26 6 SwSVjo\F\U85FK7QcZpAYOq?ve86ae756bc5=>\S=6`biym0]`
+27 8 hOoOX@PGE5>J<9sC2Se9^O:NzfYML?W:p`S8q8BQ7oAiO5b;nY
+28 12 >:Y4Mr4Z9MXHlDRz4fwu^pxGPuBVu4z[Ja]eqbV?l2286>7m]`
+29 12 YzhvxKP2k]3C6GV?pm5]]uBE1gwH@D=N3S7k30zgO5?z0;_ff<
+30 12 \LxKC5zRttkb1w14PATmu]i^:SJ\c5[hjE>Qewodj_Tq8;5iL0
+31 3 ?]poRCJ\J21swFZ>NeE@cW`t9EWO8FU`RIoP2Ilq<WV?MldNi5
+32 8 [6u4u<LNw2JBAuYyP\SeZJw=U\:W8Hf^o`IJuJeaaj>AAzR69d
+33 3 CjGWQ;T?lEBvpD:]bc>64ZJl`Y4UqhObvdO6cx^UyI57W;uz<d
+34 6 SaV2m3XqhNfDjfuYRu1AA7KZClo0[=:p>0WwgF`jFWF6e\Fhu<
+35 11 XSO1nG;?2ZP]xs\GQ=7LrGZIm2XdCJkKL4ZrI;BSsIXFq::ULz
+36 5 RgSrarCMI^<iGLMKKnrt>obt1dJCzD?et@TbK\:K5p?7<IBGmq
+37 9 6775i@8dS6jwxJR[SBU2SyxV;JnLq=dhqiEUG[^1miqCVW\\An
+38 8 URJPsArL=NJYKu<GRIBnQKR`iF^>z7tCF^HmZJwbeRWB:qGEG?
+39 13 MeI@0vvs:MMMB1BE<9Ptk:_?xzbbo\q3TcF_8^EajoUSuiA[IU
+40 8 HEXLkwyRJl`9Mokdo`ImLudfyJLGrNp5FYt1^ux`WRxqW`6p?H
+41 7 gRh<TZeS>rJeI=iQ2hDwjM=aKu;pspG>HL>`V7`QOP;xm6tn0z
+42 6 FSk9V;gmdyN]4YTtLVfsCtF@5af3`SETUx5LWy3GHz;j]k>io>
+43 5 R1oDIDGwuNa[GaYYiZq:9GH]jG:v;TWzL[UF1uvv]VuSG_2Hoa
+44 7 tZcWTuORtON0y9Z8HlN@6aEAsJNgbg:M_L@FUtT2>x=YJ0PJ9l
+45 12 ]ywqLcK[=?r3BOkcDdmwQP>CpHJZYqc=^j`WjtWzWqzi7:[a;j
+46 10 j8W=HHg8I[IPe`[7LBaDADi0w\XF;Z^YqALOXl?mIHZuKotZGr
+47 6 ;>sFiK8>A_RtQOpO@IM2@]GDTl\L\hasZz_ue>tGoPIKQ7ZH?S
+48 13 zN28Ms9yA`:U2lvQzMPvOSJ;@]=efPLj?VB2BBaPT2FZze0[Vb
+49 9 VM=pqK@SZZkffrmS5\pXzF:MPU4U_X1EM_kV<_naYoTxwQ[NKZ
+50 10 jF=]?IlWOKkC8hWhizfa@6Wy`d:a>BOT?fI?W3G`7\m]u\q5Bi
+51 6 SQxUtGTkJ\bgRBT:Vn]7l9b7Xw92h99IZPyljnkEMUOqwcOzl5
+52 8 ^Ug[@KEPcWJ1Ph4nxi`25nkqQ6jnxOtAlTqWNu1X8jQl?EKC\w
+53 10 wq_epQ;Y4ZfhSPR@xE`qP:^ZbZfNB]QuwSnouQxTEqygzfKzII
+54 5 r0wCPS<`P>w0kjLl1J7<QLuarzdr8bUpmshHtOh:FJ5x<SLyxX
+55 3 73POEb_ka^AfCadQ]KRLziwhjhihE0Ao3_X=8CZtj9P;18K@Uw
+56 11 XPusz8ps[vndjH?jfLYC?Q`anDxSpQEal?6SV[N=[be7>]pBrt
+57 11 kq2hzzVXC3\>qZcJHT`LjudZumZ=y9kVSE`SPviVa0MeOLEH]F
+58 10 w8GQxCI?eJO8hShxO::SW7HW^zv_KeqKLfzsf]zL^a`QzevzB2
+59 3 P_nOQCnd:VJ^4hS;zkqzdAAlHWoO\\gj5qpu\O^lTTwsw:rHav
+60 9 ia8;P@LteINz=hJX9OBZP71yEK702j\_1FQ8rfqgm5AL99`9\D
+61 2 `<o1z1m@6:\ugRwl]SV0\La6\6c`@QG]N_xVdb6lG7gaDk6eRe
+62 9 iS;KryS;7mF?QtiOu@pe9MnEF8V<f?F`iUp;Pn_i_fABvTbpj^
+63 11 73kCCV;k3pfucypj9PVG6_Qys;0gvhf1V>8s8QRY4Vm`n`jV6v
+64 4 qm4hJ9XZph3ZV9kjRWPd_bm9Mq^Whs`^NheU<QC\Ni54JB3P0g
+65 7 =Gfqk3EBMHLlTaT1ShJ1gg<fR_WKO`\qddx`CE5=2UxLo9[Phb
+66 7 ^T[W[<;C1vn0=vvv7_7I8Otw8tl\j:ocA[Y\[K;``_Xsky[Yz:
+67 9 ;iFBO6k8>[;aXV9BrI@4@1WbG4Rd@r[6BPZ[g=3GfSM?y6hO_[
+68 12 _LqG7m3^4em372rg=BZtAoZ?ob^wNpH3oJZ:bBA<cAWLa@8iII
+69 5 Eu`g=wa`pqYKFHYxd>h1TB]o8V_9ZL8>`YTh`7>gJiUzGagWu8
+70 4 DF06r@NO@IKqC8M9c@NuYw2M\6Od<erZAdaxtVJoxqLDBxMMIJ
+71 12 lYi<\D@qX@A@6MFy?0S;sl\2>EIM9jm>Og`my91:DF1Ys0CoVb
+72 6 sf0Vz43w9_2H2UzIOBjh4^2F3EX3\^fP[K@RnYCf@lHWD]ZJe^
+73 1 >awCI_vSwG77PrYWiRGF;D^Kewrmd@lWSxRPMDYzYz;Ol<kOxY
+74 7 GM1pk8FOQY5g5g`vtY96>n0kJ=Hs?dtfMAWL^wFkklmO`;6u14
+75 7 TYaxspQh:uH\ZblFg]:=KDzaL<jUJCvKX\XM7KK:GvES4iY@1:
+76 11 k3_GQ9pGEOEDOctodjDfa[=EUKTa`7aa:Ta@it4TovAd4OdIsA
+77 3 7C=8T6?`RO?mCLNa`s>Ohrwsn34hbY;><eb0Z3d;S>dm1E]30k
+78 9 VETCyXjNkHIM8Ys>4V;GU59j=;_0Q8^\sbt9HXF>i600Km<KHK
+79 11 KIn6uS?aZ9r95V[j<Op`@f?3\LXJ5ljG[5`tUqiu_snt99UySX
+80 9 vGB\tkmRYNXpp_O8BsfObUPO^_<\APeXAs2EaEua_Vh2Cfwb4G
+81 3 Cj;qYN8[Gqo:XfowaSgPYqISrqKp[IT6SO3>bTLX@4g3jPp7^m
+82 3 ]8p4VRx7k^ldYCc<5]<>@i^CWLAy0lg4z@Az2jwjX8dq>Bhe\a
+83 8 Uh69CRFJ_Z<UZgHe_1JFK<^tYqwjR<XJRQJ1n=813VmJmzNG6E
+84 13 0mkyjMH5W0BxJt[nYGNGMLa7F^hg93q:7FJV_m=l@kEWb_wN;9
+85 9 vyxP7fQgqIsYot\:ojS]jXeRG8fsfbQ>DBtWiChWQqTgJWMlXD
+86 1 Au6YMSPzUz?]3McE74u=\34B`1fTpPpj1sxZ8va[f>2nUpr<vN
+87 4 q\=^_z5=p^6PLAzxqrP7v>M7`Nndk3N=8sM@b?f=GKv3hHqT_L
+88 3 PI?jo3fk[bd]3uCPd9k6TF=f\I0nlgHJeqGQFt:?e8dMX3i0>F
+89 11 k=I=bw=2xZk0>F5\lKFUV8fi0KDpzQsJpDJg[3?qeH7jOi@tze
+90 1 9AFH>?pf_L98bCz448FOm3ewgBiD3@zDdjL^_iWf;gBgwhMwIz
+91 5 :r5E\M2MX^viIMRxjot2T]<;ydJGv<RK?l3tazBL9kHb@g?w\_
+92 5 RjbfWJurpl6IDkKFg7FcLRkq8pMe^\N]WNEJh2z1Ig_q1gjmk[
+93 7 t73q\ogYSBHtqb331LwW=zBfx=cph?x`JmYQ[e>I6Sjhg;w7P=
+94 13 mAhEp=cndS`BEK;2kr2;V8zPV2iVTa\xzQIBZGHiF8VjfUtuz^
+95 13 8mg\BlcOf=k[QhAQJe==P_jnbmI]>dHgqaFypA=VI=`5Xu194n
+96 12 l7eFV8xCb=`Lgtb7es[BCiaEK4rUpS^v>=PS9_GJoB?vqzz[mE
+97 13 zG2c<ZnycjNNKcTe3rgXx]XbhiG@nqNY\]Y1\wE881Y4YH5=0g
+98 6 96s9KM:50;;C;fXLXuAU8nk?g9h^]r<jsNb67zAce;So13u1PQ
+99 5 EMsb@G0SCy0BXeX[y5o=wXUeQTj>@UuY9t<DwgBtIHgPh@0Qjo
+100 12 LudZ8JdaZ1ywj8:PYz?^oW2WK>;Sd8p^76vdTYV5HX]EN\k2Ln
+101 2 O@g^9J0\b7IkV\VOwuBovH^P^Kr2Li_PdyV_i<ltsgYahIR^T5
+102 6 sp[Um3BDts^Jt>4^e:3<dOUEnSUOYZ;Noc?Nj0OioJbHPS\X]\
+103 13 ZA=6Pe?A=d]jcypyirRgRf_S6iiyUzR@<pRfj5rcZkdFNdkp;s
+104 5 =R;em=qO?U:nswz=pJcYUIuYKu?xP4zo8<Ao97U9?K@Rq2Z2eC
+105 5 rBIPcBAYb?cmE:`ic@2zxc_gcvaYwWNY@HjlvMM?sULF40CaIr
+106 12 yH^Xzt]b=1=foA>cI`3r3ZF5U[od`r8HaB>IVPk^56SRxk7O7@
+107 10 ;WjXl1YGmMp_n`cBU2rL2u4^rDT;ubNq__qWgU51z=pozm;a41
+108 5 EuTo96UP?oPw[O8G^OYjEc6yU:4O=0A2zaMt1i79_08\P@NGx`
+109 1 aFNPmDUSfxtp0tQ4m2opjK>CTJhQxq[8i[5mD2[sJ0NFt0ZvyU
+110 8 \UIgTB\wx>mavNH\?n[wyN`A;maO9`;znI`[lqcXeU0`BY^hwX
+111 4 qKc1k5j5FgoyJj;[5cB:rETe?LO;DfGH?TX]=\P>8I>U5Awwm4
+112 8 Uji?L46PN`gNupCEoyr>RYYQdF;sdvYxHdd:6GrDxr@fO6t8;q
+113 7 ^GFi^vp2En5JsEuv=fP7w^OQZadq2\i@2Yn>6[5Ex5Cwi>W9qu
+114 1 ^^3N[rJclQCpyaGgZsh5lTBF@`TW6V`OnZZpZ8iJisNHb;uzTS
+115 9 VIxW1t1U6WrL>yhMBW_b91GYl4peW9\O9FrY8q;q6f]eCHMRfH
+116 12 ::_<yzvveNTNW`5Wu0OH<r\=s1cAWPOU0nV4\Py9<BpY08J2;=
+117 13 ZsMeX=O:W@m8u;WPGa[9lMhYc@R9BbIoE5<1g7ySG:mDK?^l48
+118 6 fmlW^Pkg6Qf;UoTk=_B[Ojqnd4Y0zd\wwoD5[IRkW;OR6gqkT7
+119 2 o@LKiYUGT`RRps<tmGRG@UB1Z3dcd\jN`Ib`g3EO6E=@_TjI\1
+120 7 ]gNtb;vscg;G1GKthjT@v>BH?loO;bjBfA^lur:W7MLObIDWD<
+121 7 \GGOTYU`5jl@oPQ?vXqj`OQn7leQ<xY2PDrX7bz^RNI3jS=ePZ
+122 7 gOSFImz5AyHt4;J3SMbGsPotx_Q25X0o61fo?H]vsTyQPS;^O5
+123 7 GTC4KC9rl8dX3\^ak1h]sIpE=Kdhdx^cM7mq9T;<<]2]\=CzB1
+124 12 l^qA6rmLyVovQHKN[iq7l0CQZ^<X]=U4dHE_bOv[d[FrfQiLGX
+125 9 v><;E[vv><I4]RNQ<eVGfNXPOsjfDEQLxao_82gjJ^gbgf^7^y
+126 1 A\4woy90TOHvX?i@xuxGP:DKPHX;ZN9k>:e8<wyQHnm4j?zy6E
+127 6 SDxyh0PGA6XBHH;z0SfV:JL?dPY<AEAnlbLlpEC22cYL0YI?s;
+128 1 6nqZ<[n:bD0zcJXc<FXir5AQ]QW7tQ80L9Qud`jHr[3fkbV9CK
+129 2 bAMT7d^U]88=t55WKJEMLPIkkw1JeP^ucFtVYOH]RDU6@STXn`
